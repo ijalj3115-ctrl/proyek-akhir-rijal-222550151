@@ -1,0 +1,1 @@
+Persegi [Sisi=5.0] -> Luas: 25.0, Keliling: 20.0

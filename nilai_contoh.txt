@@ -1,0 +1,4 @@
+persegi,5
+persegi,10
+segitiga,4,6
+persegi,3
